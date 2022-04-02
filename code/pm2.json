@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "file-sharing-node",
+            "script": "npm",
+            "args": "start"
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+- cd ./code
+- npm i
+- pm2 start pm2.json
+- use http://192.168.1.218:8080/
+
